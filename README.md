@@ -1,6 +1,6 @@
 # Roblox Game Project
 Title of game upon publish : Launch For Brainrots!
-
+Game link : https://www.roblox.com/games/109960992086299/test1
 A Roblox game I developed in Roblox Studio as a solo developer including bug fixes, codings, modelling and interface designs.
 This game is currently in development and will be expected to release by the end of June 2026. As of now, I can only provide screenshots and codes used to develop the game
 to show you brief examples on how the game will look like and its mechanics.
