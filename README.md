@@ -2,6 +2,7 @@
 Title of game upon publish : Launch For Brainrots!
 
 A Roblox game I developed in Roblox Studio as a solo developer including bug fixes, codings, modelling and interface designs.
+Please refer to the Roblox Portfolio folder that contains screenshots and sample codes used in developing the game.
 
 ## Features
 - Platform System
